@@ -1,9 +1,8 @@
-﻿Count,Title,Cost,Score,Description,Activity,Gain
+Count,Title,Cost,Score,Description,Activity,Gain
 3,Développeur passionné,1,1,Votre implication dans la communauté des développeurs facilite le recrutement.,RETROSPECTIVE,Vous payez une carte en moins pour former une équipe produit.
 3,Praticien agile,1,1,Votre implication dans la communauté agile vous permet de profiter au mieux des rencontres entre pairs.,CONFERENCE,Vous pouvez défausser des cartes de votre main à la place des cartes piochées.
 3,Expérience utilisateur,2,1,Vous portez une attention particulière au métier des utilisateurs.,DEPLOIEMENT,Vous recevez une carte supplémentaire lors d’un déploiement d’au moins deux produits.
 3,Programmation en binôme,2,1,Le développement systématique en binômes fluidifie les échanges entre vos développeurs.,DEVELOPPEMENT,Vous piochez une carte lors d’un développement d’au moins deux produits.
-3,Itérations courtes,2,1,Votre travail en itérations vous permet de changer souvent d’avis.,RETROSPECTIVE,Vous pouvez remplacer une équipe ou une action existante en ne payant que la différence de coût.
 3,Organisateur agile,3,2,Vous organisez des rencontres entre praticiens agiles ce qui vous permet de multiplier les échanges.,CONFERENCE,Vous conservez une carte supplémentaire parmi les cartes piochées.
 3,Retour d’expérience,3,2,Vous apprenez à mieux vous connaître en analysant l’impact de vos décisions.,RETROSPECTIVE,Vous piochez une carte après la mise en route d’une action d’amélioration.
 3,Code propre,3,2,L’attention portée à la qualité de votre code vous permet de coder vite et bien.,DEVELOPPEMENT,Vous développez un produit supplémentaire.
@@ -13,9 +12,9 @@
 2,Sensei agile,5,*,Vous êtes passé maître dans l’art de faire progresser vos équipes.,THEEND,Chaque valeur ou action d’amélioration vous rapporte un point supplémentaire.
 3,Livraison en continu,3,2,Votre produit est en permanence dans un état prêt à être livré.,DEPLOIEMENT,Vous déployez un produit supplémentaire.
 3,RH agile,4,2,L’agilité de votre organisation interne augmente votre capacité d’action,LEADER,Vous pouvez avoir jusqu’à 10 cartes en mains lors du changement de meneur de jeu.
-3,Dev Ops,3,2,L’absence de barrières entre vos équipes fluidifie l’ensemble du cycle produit.,RETROSPECTIVE,Vous pouvez payer avec des produits encore non déployés, chacun ayant une valeur de 2 cartes.
+3,Dev Ops,3,2,L’absence de barrières entre vos équipes fluidifie l’ensemble du cycle produit.,RETROSPECTIVE,Vous pouvez payer avec des produits encore non déployés chacun ayant une valeur de 2 cartes.
 2,Vision produit,5,*,L’ensemble de votre stratégie est portée par une vision claire de vos produits.,THEEND,Votre score final est majoré de 30 %
-3,Planification détaillée,1,-5,La planification détaillée vous permet de prévoir le futur dans les moindres détails.,THEEND,Cette carte est automatiquement ajoutée à votre entreprise si vous l'avez en main à la fin du jeu.
-3,Equipe de test,1,-5,Une équipe de test indépendante assure que les produits seront toujours conformes aux attentes,THEEND,Cette carte est automatiquement ajoutée à votre entreprise si vous l'avez en main à la fin du jeu.
+3,Planification détaillée,1,-4,La planification détaillée vous permet de prévoir le futur dans les moindres détails.,THEEND,Cette carte est automatiquement ajoutée à votre entreprise si vous l'avez en main à la fin du jeu.
+3,Equipe de test,1,-4,Une équipe de test indépendante assure que les produits seront toujours conformes aux attentes,THEEND,Cette carte est automatiquement ajoutée à votre entreprise si vous l'avez en main à la fin du jeu.
 3,Certification agile,1,-5,"La certification de vos équipes garantit l'adoption des valeurs, principes et pratiques agiles",THEEND,Cette carte est automatiquement ajoutée à votre entreprise si vous l'avez en main à la fin du jeu.
-
+3,Framework applicatif,1,-5,L’utilisation d’un framework applicatif augmente votre productivité en développement,THEEND,Cette carte est automatiquement ajoutée à votre entreprise si vous l'avez en main à la fin du jeu.
