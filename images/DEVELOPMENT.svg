@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="20mm"
+   height="20mm"
    id="svg4459"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="DEVELOPPEMENT.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="DEVELOPMENT.svg">
   <defs
      id="defs4461" />
   <sodipodi:namedview
@@ -24,17 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="422.45805"
-     inkscape:cy="574.98371"
+     inkscape:zoom="3.959798"
+     inkscape:cx="109.08199"
+     inkscape:cy="30.276915"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="1271"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="mm" />
   <metadata
      id="metadata4464">
     <rdf:RDF>
@@ -43,27 +44,29 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-981.49637)">
     <text
        xml:space="preserve"
-       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="212.85715"
-       y="429.50504"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.29027557px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-4.4153829"
+       y="812.87012"
        id="text4467"
        sodipodi:linespacing="125%"
        inkscape:export-filename="C:\bin\CardMaker\MonEntrepriseAgile\Activities\DEVELOPPEMENT.png"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><tspan
+       inkscape:export-ydpi="300"
+       transform="scale(0.78400093,1.2755087)"><tspan
          sodipodi:role="line"
          id="tspan4469"
-         x="212.85715"
-         y="429.50504">&lt;/&gt;</tspan></text>
+         x="-4.4153829"
+         y="812.87012">&lt;/&gt;</tspan></text>
   </g>
 </svg>

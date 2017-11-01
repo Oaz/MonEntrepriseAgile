@@ -1,0 +1,428 @@
+/*
+ * Copyright 2017 - Olivier Azeau
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published
+ * by the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * 
+ */
+
+.card {
+    width: 50mm;
+    height: 81mm;
+    position:relative;
+    border: none !important;
+}
+
+.cardtype {
+    text-align: center;
+    margin-top: 3mm;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 12pt;
+    color: white;
+    font-variant: small-caps;
+}
+
+/**************************************************/
+
+.cost {
+    width: 20mm;
+    height: 11mm;
+    position: absolute;
+    top: 68mm;
+    left: 5mm;
+}
+
+.score {
+    width: 20mm;
+    height: 11mm;
+    position: absolute;
+    top: 68mm;
+    left: 28mm;
+}
+
+.label {
+    font-family: "Arial";
+    font-size: 7pt;
+    position: absolute;
+    top: 11mm;
+    left: 3mm;
+    color:white;
+    transform-origin: 0 0;
+    transform: rotate(-90deg);
+}
+
+.value {
+    font-family: "Arial";
+    font-size: 26pt;
+    position: absolute;
+    top: 2.5mm;
+    left: 7mm;
+    color:white;
+}
+
+/**************************************************/
+
+.container {
+    border-radius: 2mm;
+    background-color: white;
+    position: absolute;
+    top: 10mm;
+    left: 3mm;
+    width: 44mm;
+    height: 60mm;
+}
+
+.name {
+    text-align: center;
+    font-family: "Arial";
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+.sectionhead {
+    text-align: left;
+    font-family: "Arial";
+    font-size: 8pt;
+    position: absolute;
+    top:38mm;
+    width:40mm;
+    left:2mm;
+    border-top : 1px solid;
+    font-variant: small-caps;
+}
+
+/**************************************************/
+
+.product-team {
+    border-style: solid;
+    border-width: 0.1mm;
+    border-color: black;
+    border-radius: 0mm;
+    background-color: #6b1d5f;
+}
+
+.product-team .name {
+    margin-top: 5mm;
+    font-size: 18pt;
+    height: 10mm;
+}
+
+.product-team .logo {
+    position: absolute;
+    top: 15mm;
+    left: 12mm;
+    width: 20mm;
+}
+
+.product-team .description {
+    text-align: center;
+    margin-top: 31mm;
+    font-family: "Arial";
+    font-size: 16pt;
+    transform: translateY(-50%);
+    padding-left: 1mm;
+    padding-right:1mm;
+}
+
+/**************************************************/
+
+
+.agile-maturity {
+    border-style: solid;
+    border-width: 0.1mm;
+    border-color: black;
+    border-radius: 0mm;
+    background-color:#28286a;
+}
+
+.agile-maturity .name {
+    margin-top: 8mm;
+    font-size: 16pt;
+    transform: translateY(-50%);
+}
+
+.agile-maturity .description {
+    text-align: center;
+    position: absolute;
+    top: 26mm;
+    font-family: "Arial";
+    font-size: 9pt;
+    padding-left: 1mm;
+    padding-right: 1mm;
+    transform: translateY(-50%);
+}
+
+.agile-maturity .logo {
+    position: absolute;
+    top: 43mm;
+    left: 2mm;
+    width: 10mm;
+}
+
+.agile-maturity .gain {
+    text-align: center;
+    position:absolute;
+    top: 48mm;
+    left: 14mm;
+    font-family: "Arial";
+    font-size: 8pt;
+    transform: translateY(-50%);
+}
+
+/**************************************************/
+
+.agile-value {
+    border-style: solid;
+    border-width: 0.1mm;
+    border-color: black;
+    border-radius: 0mm;
+    background-color:#1d6b41;
+}
+
+.agile-value .name {
+    margin-top: 8mm;
+    font-size: 16pt;
+    transform: translateY(-50%);
+}
+
+.agile-value .description {
+    text-align: center;
+    position: absolute;
+    top: 24mm;
+    font-family: "Arial";
+    font-size: 9pt;
+    padding-left: 4mm;
+    padding-right: 4mm;
+    transform: translateY(-50%);
+}
+
+.agile-value .logo {
+    position: absolute;
+    top: 43mm;
+    left: 2mm;
+    width: 10mm;
+}
+
+.agile-value .gain {
+    text-align: center;
+    position:absolute;
+    top: 48mm;
+    left: 14mm;
+    padding-right: 1mm;
+    font-family: "Arial";
+    font-size: 8pt;
+    transform: translateY(-50%);
+}
+
+/**************************************************/
+
+.activity {
+    border-radius: 0mm;
+    background-color:#987c29;
+}
+
+.activity .container {
+    height: 67mm;
+}
+
+.activity .name {
+    margin-top: 5mm;
+    font-size: 16pt;
+    transform: translateY(-50%);
+}
+
+.activity .logo {
+    position: absolute;
+    top: 12mm;
+    left: 12mm;
+    width: 20mm;
+}
+
+.activity .description {
+    text-align: center;
+    position: absolute;
+    top: 39mm;
+    font-family: "Arial";
+    font-size: 10pt;
+    padding-left: 1mm;
+    padding-right: 1mm;
+    transform: translateY(-50%);
+}
+
+.activity .sectionhead {
+    top:49mm;
+}
+
+.activity .privilege {
+    text-align: center;
+    position:absolute;
+    top: 60mm;
+    left: 1mm;
+    padding-right: 1mm;
+    font-family: "Arial";
+    font-size: 9pt;
+    transform: translateY(-50%);
+}
+
+/**************************************************/
+
+.profits {
+    border-radius: 0mm;
+    background-color:#565656;
+}
+
+.profits .container {
+    height: 67mm;
+}
+
+.profits .name {
+    margin-top: 5mm;
+    font-size: 16pt;
+    transform: translateY(-50%);
+}
+
+.profits .profit {
+    position: absolute;
+    left: 5mm;
+    width: 40mm;
+}
+
+.profits .advergame {
+    top: 1mm;
+}
+
+.profits .education {
+    top: 17mm;
+}
+
+.profits .social {
+    top: 33mm;
+}
+
+.profits .mmog {
+    top: 49mm;
+}
+
+.profits .logo {
+    position: absolute;
+    top: 2mm;
+    left: 2mm;
+    width: 15mm;
+}
+
+.profits .value {
+    top:4mm;
+    left: 25mm;
+    color:black;
+}
+
+/**************************************************/
+
+
+.leader {
+    border-radius: 0mm;
+    background-color:#8a8062;
+}
+
+.leader .container {
+    top: 5mm;
+    height: 71mm;
+}
+
+.leader .name {
+    margin-top: 5mm;
+    font-size: 16pt;
+}
+
+.leader .logo {
+    position: absolute;
+    top: 13mm;
+    left: 12mm;
+    width: 20mm;
+}
+
+.leader .description {
+    text-align: center;
+    position: absolute;
+    top: 33mm;
+    font-family: "Arial";
+    font-size: 10pt;
+    padding-left: 1mm;
+    padding-right: 1mm;
+}
+
+.leader .description2 {
+    text-align: center;
+    position: absolute;
+    top: 54mm;
+    font-family: "Arial";
+    font-size: 10pt;
+    padding-left: 1mm;
+    padding-right: 1mm;
+}
+
+
+/**************************************************/
+
+
+.cover {
+    border-radius: 0mm;
+    background-color:#8a8062;
+}
+
+.cover .container {
+    top: 5mm;
+    height: 71mm;
+    font-family: "Arial";
+}
+
+.cover .title {
+    position: absolute;
+    top: 3mm;
+    left: 27mm;
+    width: 70mm;
+    font-size: 18pt;
+    font-variant: small-caps;
+    transform-origin: 0 0;
+    transform: rotate(90deg);
+}
+
+.cover .url {
+    position: absolute;
+    top: 5mm;
+    left: 6mm;
+    font-size: 12pt;
+    transform-origin: 0 0;
+    transform: rotate(90deg);
+}
+
+.cover .version {
+    position: absolute;
+    top: 61mm;
+    left: 43mm;
+    font-size: 12pt;
+    transform-origin: 0 0;
+    transform: rotate(90deg);
+}
+
+.cover .license {
+    position: absolute;
+    top: 2mm;
+    left: 43mm;
+    width: 40mm;
+    font-size: 12pt;
+    transform-origin: 0 0;
+    transform: rotate(90deg);
+}
+

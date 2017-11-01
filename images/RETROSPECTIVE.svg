@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20mm"
+   height="20mm"
+   id="svg5058"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RETROSPECTIVE.svg"
+   inkscape:export-filename="C:\bin\CardMaker\MonEntrepriseAgile\Activities\RETROSPECTIVE.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs5060" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="52.689863"
+     inkscape:cy="24.723903"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5077"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="mm" />
+  <metadata
+     id="metadata5063">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49609)">
+    <g
+       id="g5077"
+       transform="matrix(0.39332993,0,0,0.39332993,529.68052,310.25429)">
+      <path
+         style="fill:#000000"
+         d="m -1255.5269,1873.5684 0,-12.0292 -3.0566,-0.1364 c -10.5702,-0.4717 -19.8321,-2.658 -29.2179,-6.8968 -6.4875,-2.93 -12.1036,-6.5564 -17.5459,-11.33 -11.9338,-10.4674 -18.9725,-23.2569 -21.2277,-38.5717 -0.5065,-3.4401 -0.5083,-11.5499 0,-15.1668 0.7069,-5.0629 2.0964,-10.2059 4.0225,-14.8882 1.1673,-2.8375 3.8224,-7.8738 5.4759,-10.3867 l 1.0058,-1.5286 6.4611,5.8249 6.4611,5.825 -0.9776,1.9024 c -2.5641,4.99 -4.2634,10.4131 -4.8882,15.5999 -0.2923,2.4269 -0.2909,7.9694 0,10.3788 1.4074,11.5506 7.3664,22.2721 16.8222,30.2664 3.081,2.6047 6.4531,4.8243 10.5249,6.9279 6.823,3.5249 16.9057,6.0363 24.2595,6.0426 l 1.8785,0 0.055,-12.0105 0.056,-12.0106 17.7804,16.0304 17.7805,16.0306 -17.8342,16.0772 -17.8342,16.0772 0,-12.0292 z m 54.0547,-48.1038 -6.429,-5.7984 0.9772,-1.9018 c 2.6307,-5.1196 4.3008,-10.5238 4.9186,-15.9161 0.3605,-3.145 0.1419,-9.7516 -0.4207,-12.718 -1.9676,-10.3761 -7.1857,-19.4194 -15.4505,-26.7765 -9.2403,-8.2256 -21.8877,-13.2521 -34.5867,-13.7461 l -3.0603,-0.1191 -0.055,12.0402 -0.056,12.0401 -17.7805,-16.0305 -17.7805,-16.0305 17.8342,-16.0772 17.8342,-16.0772 0,12.0582 0,12.058 1.258,0 c 0.6919,0 2.5049,0.091 4.0289,0.2001 17.2115,1.2433 32.3711,7.4016 44.525,18.0876 4.684,4.1182 8.1883,8.0757 11.4368,12.9158 12.0997,18.0285 13.5859,40.2734 3.9848,59.6406 -1.1479,2.3155 -3.7185,6.7165 -4.3962,7.5264 -0.3494,0.4178 -0.4297,0.3541 -6.7826,-5.3756 z"
+         id="path5079"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20mm"
+   height="20mm"
+   id="svg3002"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SOCIAL.svg">
+  <defs
+     id="defs3004" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="196.60351"
+     inkscape:cy="73.973683"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="mm" />
+  <metadata
+     id="metadata3007">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49609)">
+    <g
+       id="g3339"
+       transform="matrix(0.56466488,0,0,0.56466488,-169.71841,787.66631)">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="C:\bin\CardMaker\MonEntrepriseAgile\ProductTeams\SOCIAL.png"
+         inkscape:connector-curvature="0"
+         id="path3025-7-0"
+         d="m 345.34591,366.08979 78.03429,0.75762 0.25254,55.81093 -23.73859,-5.55584 -1.51523,-23.48605 -5.3033,0 0.25254,16.66752 -16.16244,-2.52538 -0.75762,-16.16245 -31.8198,1.2627 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="C:\bin\CardMaker\MonEntrepriseAgile\ProductTeams\SOCIAL.png"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3027-1-4-9"
+         d="m 356.07877,366.08981 -36.36549,0 c -1.72875,27.05552 -7.27074,52.49196 -15.90991,78.7919 l 27.52666,-0.75762 4.79823,-41.92132 0.50507,45.45686 29.29443,-1.01015 c -7.01349,-26.53623 -10.4466,-51.83527 -9.84899,-80.55967 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

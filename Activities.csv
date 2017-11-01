@@ -1,6 +1,0 @@
-﻿Count,Title,Action,Privilege
-1,DEVELOPPEMENT,Chaque joueur peut développer un produit,L'initiateur de l'activité peut développer un produit supplémentaire
-1,DEPLOIEMENT,Chaque joueur peut déployer un produit,L'initiateur de l'activité peut déployer un produit supplémentaire
-1,RETROSPECTIVE,Chaque joueur peut mettre en place une équipe ou une action d'amélioration,L'initiateur de l'activité paie une carte en moins
-1,CONFERENCE,Chaque joueur pioche deux cartes et en conserve une,L'initiateur de l'activité pioche non pas deux mais cinq cartes
-1,COACH,L'intervention du coach est limitée à l'initiateur de l'activité,L'initiateur de l'activité pioche une carte et la conserve
