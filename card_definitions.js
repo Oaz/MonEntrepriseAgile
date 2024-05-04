@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 - Olivier Azeau
+ * Copyright 2017-2024 - Olivier Azeau
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published

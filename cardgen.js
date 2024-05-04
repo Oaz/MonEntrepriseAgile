@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 - Olivier Azeau
+ * Copyright 2017-2024 - Olivier Azeau
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published
@@ -33,7 +33,7 @@ function render(items)
     var output = item.tmpl.render(item);
     $("#cards-output").append(output);
   }
-  $("#cards-output").append("<div class='sep'/><div class='page'><a href='https://creativecommons.org/licenses/by-sa/4.0/deed.fr'>CC-BY-SA 4.0</a> - <a href='https://monentrepriseagile.klo.re/'>https://monentrepriseagile.klo.re/</a></div><div class='sep'/>");
+  $("#cards-output").append("<div class='sep'/><div class='page'><a href='https://creativecommons.org/licenses/by-sa/4.0/deed.fr'>CC-BY-SA 4.0</a> - <a href='https://entrepriseagile.mnt.space/'>https://entrepriseagile.mnt.space/</a> - <a href='https://github.com/Oaz/MonEntrepriseAgile/blob/master/RULES.md'>Règles du jeu</a> - <a href='https://github.com/Oaz/MonEntrepriseAgile'>Code source</a></div><div class='sep'/>");
 }
 
 function generateCards(context, definition)
@@ -64,7 +64,7 @@ function generateCards(context, definition)
 
 
 $(document).ready(function() {
-  $('#card-definitions').ready(function(){
+  $('#card-definitions').on('load', function(){
     var context = undefined;
     for(var idx in cards)
       context = generateCards(context, cards[idx]);
@@ -72,5 +72,4 @@ $(document).ready(function() {
       render(context.remainder);
   });
 });
-
 
